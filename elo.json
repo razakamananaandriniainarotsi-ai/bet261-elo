@@ -1,483 +1,1496 @@
 {
-  "updated": "2026-09-11T09:22:41.257523Z",
-  "count": 53,
+  "updated": "2026-09-11T09:42:21.944900Z",
+  "count": 186,
+  "live_count": 0,
+  "is_live": false,
   "clubs": [
     {
       "club": "Al Hilal",
       "country": "KSA",
       "elo": 1847,
-      "points": 1847,
       "rank": 1,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Al Nassr",
       "country": "KSA",
       "elo": 1767,
-      "points": 1767,
       "rank": 15,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Al Ahli",
       "country": "KSA",
       "elo": 1745,
-      "points": 1745,
       "rank": 22,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Al Ittihad",
       "country": "KSA",
       "elo": 1720,
-      "points": 1720,
       "rank": 28,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
-    },
-    {
-      "club": "Al Qadisiyah",
-      "country": "KSA",
-      "elo": 1620,
-      "points": 1620,
-      "rank": 80,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Pyramids",
       "country": "EGY",
       "elo": 1669,
-      "points": 1669,
-      "rank": 1,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
+      "rank": 30,
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Al Ahly",
       "country": "EGY",
       "elo": 1755,
-      "points": 1755,
       "rank": 18,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
-    },
-    {
-      "club": "Zamalek",
-      "country": "EGY",
-      "elo": 1680,
-      "points": 1680,
-      "rank": 45,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Man City",
       "country": "ENG",
       "elo": 1985,
-      "points": 1985,
       "rank": 1,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Real Madrid",
       "country": "ESP",
       "elo": 1975,
-      "points": 1975,
       "rank": 2,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Arsenal",
       "country": "ENG",
       "elo": 1965,
-      "points": 1965,
       "rank": 3,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Bayern Munich",
       "country": "GER",
       "elo": 1955,
-      "points": 1955,
       "rank": 4,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Inter Milan",
       "country": "ITA",
       "elo": 1945,
-      "points": 1945,
       "rank": 5,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Barcelona",
       "country": "ESP",
       "elo": 1935,
-      "points": 1935,
       "rank": 6,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Liverpool",
       "country": "ENG",
       "elo": 1925,
-      "points": 1925,
       "rank": 7,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "PSG",
       "country": "FRA",
       "elo": 1915,
-      "points": 1915,
       "rank": 8,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Leverkusen",
       "country": "GER",
       "elo": 1905,
-      "points": 1905,
       "rank": 9,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
       "club": "Atletico Madrid",
       "country": "ESP",
       "elo": 1895,
-      "points": 1895,
       "rank": 10,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     {
-      "club": "Atalanta",
-      "country": "ITA",
-      "elo": 1880,
-      "points": 1880,
-      "rank": 11,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Dortmund",
-      "country": "GER",
-      "elo": 1870,
-      "points": 1870,
-      "rank": 12,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Man United",
+      "club": "Club30",
       "country": "ENG",
-      "elo": 1820,
-      "points": 1820,
-      "rank": 20,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "elo": 1470,
+      "rank": 30,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Chelsea",
+      "club": "Club31",
       "country": "ENG",
-      "elo": 1810,
-      "points": 1810,
-      "rank": 22,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "elo": 1469,
+      "rank": 31,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Juventus",
-      "country": "ITA",
-      "elo": 1840,
-      "points": 1840,
-      "rank": 15,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "AC Milan",
-      "country": "ITA",
-      "elo": 1830,
-      "points": 1830,
-      "rank": 18,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Tottenham",
+      "club": "Club32",
       "country": "ENG",
-      "elo": 1805,
-      "points": 1805,
-      "rank": 25,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Newcastle",
-      "country": "ENG",
-      "elo": 1795,
-      "points": 1795,
-      "rank": 27,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Napoli",
-      "country": "ITA",
-      "elo": 1825,
-      "points": 1825,
-      "rank": 19,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Leipzig",
-      "country": "GER",
-      "elo": 1815,
-      "points": 1815,
-      "rank": 21,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Benfica",
-      "country": "POR",
-      "elo": 1800,
-      "points": 1800,
-      "rank": 24,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Porto",
-      "country": "POR",
-      "elo": 1785,
-      "points": 1785,
-      "rank": 28,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Ajax",
-      "country": "NED",
-      "elo": 1740,
-      "points": 1740,
-      "rank": 35,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "PSV",
-      "country": "NED",
-      "elo": 1755,
-      "points": 1755,
+      "elo": 1468,
       "rank": 32,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Feyenoord",
-      "country": "NED",
-      "elo": 1730,
-      "points": 1730,
+      "club": "Club33",
+      "country": "ENG",
+      "elo": 1467,
+      "rank": 33,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club34",
+      "country": "ENG",
+      "elo": 1466,
+      "rank": 34,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club35",
+      "country": "ENG",
+      "elo": 1465,
+      "rank": 35,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club36",
+      "country": "ENG",
+      "elo": 1464,
+      "rank": 36,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club37",
+      "country": "ENG",
+      "elo": 1463,
+      "rank": 37,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club38",
+      "country": "ENG",
+      "elo": 1462,
       "rank": 38,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Galatasaray",
-      "country": "TUR",
-      "elo": 1725,
-      "points": 1725,
+      "club": "Club39",
+      "country": "ENG",
+      "elo": 1461,
+      "rank": 39,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club40",
+      "country": "ENG",
+      "elo": 1460,
       "rank": 40,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Fenerbahce",
-      "country": "TUR",
-      "elo": 1710,
-      "points": 1710,
-      "rank": 45,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "club": "Club41",
+      "country": "ENG",
+      "elo": 1459,
+      "rank": 41,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Celtic",
-      "country": "SCO",
-      "elo": 1690,
-      "points": 1690,
-      "rank": 50,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Rangers",
-      "country": "SCO",
-      "elo": 1680,
-      "points": 1680,
-      "rank": 52,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    {
-      "club": "Club Brugge",
-      "country": "BEL",
-      "elo": 1715,
-      "points": 1715,
+      "club": "Club42",
+      "country": "ENG",
+      "elo": 1458,
       "rank": 42,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Shakhtar",
-      "country": "UKR",
-      "elo": 1700,
-      "points": 1700,
+      "club": "Club43",
+      "country": "ENG",
+      "elo": 1457,
+      "rank": 43,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club44",
+      "country": "ENG",
+      "elo": 1456,
+      "rank": 44,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club45",
+      "country": "ENG",
+      "elo": 1455,
+      "rank": 45,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club46",
+      "country": "ENG",
+      "elo": 1454,
+      "rank": 46,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club47",
+      "country": "ENG",
+      "elo": 1453,
+      "rank": 47,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club48",
+      "country": "ENG",
+      "elo": 1452,
       "rank": 48,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Flamengo",
-      "country": "BRA",
-      "elo": 1840,
-      "points": 1840,
-      "rank": 1,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club49",
+      "country": "ENG",
+      "elo": 1451,
+      "rank": 49,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Palmeiras",
-      "country": "BRA",
-      "elo": 1830,
-      "points": 1830,
-      "rank": 2,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club50",
+      "country": "ENG",
+      "elo": 1450,
+      "rank": 50,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "River Plate",
-      "country": "ARG",
-      "elo": 1800,
-      "points": 1800,
-      "rank": 3,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club51",
+      "country": "ENG",
+      "elo": 1449,
+      "rank": 51,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Boca Juniors",
-      "country": "ARG",
-      "elo": 1760,
-      "points": 1760,
-      "rank": 5,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club52",
+      "country": "ENG",
+      "elo": 1448,
+      "rank": 52,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Fluminense",
-      "country": "BRA",
-      "elo": 1790,
-      "points": 1790,
-      "rank": 4,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club53",
+      "country": "ENG",
+      "elo": 1447,
+      "rank": 53,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Botafogo",
-      "country": "BRA",
-      "elo": 1770,
-      "points": 1770,
-      "rank": 6,
-      "source": "clubelo",
-      "confederation": "conmebol"
+      "club": "Club54",
+      "country": "ENG",
+      "elo": 1446,
+      "rank": 54,
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Urawa Reds",
-      "country": "JPN",
-      "elo": 1620,
-      "points": 1620,
-      "rank": 60,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    {
-      "club": "Al Ain",
-      "country": "UAE",
-      "elo": 1640,
-      "points": 1640,
+      "club": "Club55",
+      "country": "ENG",
+      "elo": 1445,
       "rank": 55,
-      "source": "clubelo",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Yokohama F Marinos",
-      "country": "JPN",
-      "elo": 1605,
-      "points": 1605,
-      "rank": 70,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    {
-      "club": "Kawasaki",
-      "country": "JPN",
-      "elo": 1595,
-      "points": 1595,
-      "rank": 75,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    {
-      "club": "Wydad Casablanca",
-      "country": "MAR",
-      "elo": 1625,
-      "points": 1625,
-      "rank": 58,
-      "source": "clubelo",
-      "confederation": "caf"
-    },
-    {
-      "club": "Esperance Tunis",
-      "country": "TUN",
-      "elo": 1610,
-      "points": 1610,
-      "rank": 62,
-      "source": "clubelo",
-      "confederation": "caf"
-    },
-    {
-      "club": "Mamelodi Sundowns",
-      "country": "RSA",
-      "elo": 1635,
-      "points": 1635,
+      "club": "Club56",
+      "country": "ENG",
+      "elo": 1444,
       "rank": 56,
-      "source": "clubelo",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 2
     },
     {
-      "club": "Raja Casablanca",
-      "country": "MAR",
-      "elo": 1600,
-      "points": 1600,
+      "club": "Club57",
+      "country": "ENG",
+      "elo": 1443,
+      "rank": 57,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club58",
+      "country": "ENG",
+      "elo": 1442,
+      "rank": 58,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club59",
+      "country": "ENG",
+      "elo": 1441,
+      "rank": 59,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club60",
+      "country": "ENG",
+      "elo": 1440,
+      "rank": 60,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club61",
+      "country": "ENG",
+      "elo": 1439,
+      "rank": 61,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club62",
+      "country": "ENG",
+      "elo": 1438,
+      "rank": 62,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club63",
+      "country": "ENG",
+      "elo": 1437,
+      "rank": 63,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club64",
+      "country": "ENG",
+      "elo": 1436,
+      "rank": 64,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club65",
+      "country": "ENG",
+      "elo": 1435,
+      "rank": 65,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club66",
+      "country": "ENG",
+      "elo": 1434,
+      "rank": 66,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club67",
+      "country": "ENG",
+      "elo": 1433,
+      "rank": 67,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club68",
+      "country": "ENG",
+      "elo": 1432,
+      "rank": 68,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club69",
+      "country": "ENG",
+      "elo": 1431,
+      "rank": 69,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club70",
+      "country": "ENG",
+      "elo": 1430,
+      "rank": 70,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club71",
+      "country": "ENG",
+      "elo": 1429,
+      "rank": 71,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club72",
+      "country": "ENG",
+      "elo": 1428,
       "rank": 72,
-      "source": "clubelo",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club73",
+      "country": "ENG",
+      "elo": 1427,
+      "rank": 73,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club74",
+      "country": "ENG",
+      "elo": 1426,
+      "rank": 74,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club75",
+      "country": "ENG",
+      "elo": 1425,
+      "rank": 75,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club76",
+      "country": "ENG",
+      "elo": 1424,
+      "rank": 76,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club77",
+      "country": "ENG",
+      "elo": 1423,
+      "rank": 77,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club78",
+      "country": "ENG",
+      "elo": 1422,
+      "rank": 78,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club79",
+      "country": "ENG",
+      "elo": 1421,
+      "rank": 79,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club80",
+      "country": "ENG",
+      "elo": 1420,
+      "rank": 80,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club81",
+      "country": "ENG",
+      "elo": 1419,
+      "rank": 81,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club82",
+      "country": "ENG",
+      "elo": 1418,
+      "rank": 82,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club83",
+      "country": "ENG",
+      "elo": 1417,
+      "rank": 83,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club84",
+      "country": "ENG",
+      "elo": 1416,
+      "rank": 84,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club85",
+      "country": "ENG",
+      "elo": 1415,
+      "rank": 85,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club86",
+      "country": "ENG",
+      "elo": 1414,
+      "rank": 86,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club87",
+      "country": "ENG",
+      "elo": 1413,
+      "rank": 87,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club88",
+      "country": "ENG",
+      "elo": 1412,
+      "rank": 88,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club89",
+      "country": "ENG",
+      "elo": 1411,
+      "rank": 89,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club90",
+      "country": "ENG",
+      "elo": 1410,
+      "rank": 90,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club91",
+      "country": "ENG",
+      "elo": 1409,
+      "rank": 91,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club92",
+      "country": "ENG",
+      "elo": 1408,
+      "rank": 92,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club93",
+      "country": "ENG",
+      "elo": 1407,
+      "rank": 93,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club94",
+      "country": "ENG",
+      "elo": 1406,
+      "rank": 94,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club95",
+      "country": "ENG",
+      "elo": 1405,
+      "rank": 95,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club96",
+      "country": "ENG",
+      "elo": 1404,
+      "rank": 96,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club97",
+      "country": "ENG",
+      "elo": 1403,
+      "rank": 97,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club98",
+      "country": "ENG",
+      "elo": 1402,
+      "rank": 98,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club99",
+      "country": "ENG",
+      "elo": 1401,
+      "rank": 99,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club100",
+      "country": "ENG",
+      "elo": 1400,
+      "rank": 100,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club101",
+      "country": "ENG",
+      "elo": 1399,
+      "rank": 101,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club102",
+      "country": "ENG",
+      "elo": 1398,
+      "rank": 102,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club103",
+      "country": "ENG",
+      "elo": 1397,
+      "rank": 103,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club104",
+      "country": "ENG",
+      "elo": 1396,
+      "rank": 104,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club105",
+      "country": "ENG",
+      "elo": 1395,
+      "rank": 105,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club106",
+      "country": "ENG",
+      "elo": 1394,
+      "rank": 106,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club107",
+      "country": "ENG",
+      "elo": 1393,
+      "rank": 107,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club108",
+      "country": "ENG",
+      "elo": 1392,
+      "rank": 108,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club109",
+      "country": "ENG",
+      "elo": 1391,
+      "rank": 109,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club110",
+      "country": "ENG",
+      "elo": 1390,
+      "rank": 110,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club111",
+      "country": "ENG",
+      "elo": 1389,
+      "rank": 111,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club112",
+      "country": "ENG",
+      "elo": 1388,
+      "rank": 112,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club113",
+      "country": "ENG",
+      "elo": 1387,
+      "rank": 113,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club114",
+      "country": "ENG",
+      "elo": 1386,
+      "rank": 114,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club115",
+      "country": "ENG",
+      "elo": 1385,
+      "rank": 115,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club116",
+      "country": "ENG",
+      "elo": 1384,
+      "rank": 116,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club117",
+      "country": "ENG",
+      "elo": 1383,
+      "rank": 117,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club118",
+      "country": "ENG",
+      "elo": 1382,
+      "rank": 118,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club119",
+      "country": "ENG",
+      "elo": 1381,
+      "rank": 119,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club120",
+      "country": "ENG",
+      "elo": 1380,
+      "rank": 120,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club121",
+      "country": "ENG",
+      "elo": 1379,
+      "rank": 121,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club122",
+      "country": "ENG",
+      "elo": 1378,
+      "rank": 122,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club123",
+      "country": "ENG",
+      "elo": 1377,
+      "rank": 123,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club124",
+      "country": "ENG",
+      "elo": 1376,
+      "rank": 124,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club125",
+      "country": "ENG",
+      "elo": 1375,
+      "rank": 125,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club126",
+      "country": "ENG",
+      "elo": 1374,
+      "rank": 126,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club127",
+      "country": "ENG",
+      "elo": 1373,
+      "rank": 127,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club128",
+      "country": "ENG",
+      "elo": 1372,
+      "rank": 128,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club129",
+      "country": "ENG",
+      "elo": 1371,
+      "rank": 129,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club130",
+      "country": "ENG",
+      "elo": 1370,
+      "rank": 130,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club131",
+      "country": "ENG",
+      "elo": 1369,
+      "rank": 131,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club132",
+      "country": "ENG",
+      "elo": 1368,
+      "rank": 132,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club133",
+      "country": "ENG",
+      "elo": 1367,
+      "rank": 133,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club134",
+      "country": "ENG",
+      "elo": 1366,
+      "rank": 134,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club135",
+      "country": "ENG",
+      "elo": 1365,
+      "rank": 135,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club136",
+      "country": "ENG",
+      "elo": 1364,
+      "rank": 136,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club137",
+      "country": "ENG",
+      "elo": 1363,
+      "rank": 137,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club138",
+      "country": "ENG",
+      "elo": 1362,
+      "rank": 138,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club139",
+      "country": "ENG",
+      "elo": 1361,
+      "rank": 139,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club140",
+      "country": "ENG",
+      "elo": 1360,
+      "rank": 140,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club141",
+      "country": "ENG",
+      "elo": 1359,
+      "rank": 141,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club142",
+      "country": "ENG",
+      "elo": 1358,
+      "rank": 142,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club143",
+      "country": "ENG",
+      "elo": 1357,
+      "rank": 143,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club144",
+      "country": "ENG",
+      "elo": 1356,
+      "rank": 144,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club145",
+      "country": "ENG",
+      "elo": 1355,
+      "rank": 145,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club146",
+      "country": "ENG",
+      "elo": 1354,
+      "rank": 146,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club147",
+      "country": "ENG",
+      "elo": 1353,
+      "rank": 147,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club148",
+      "country": "ENG",
+      "elo": 1352,
+      "rank": 148,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club149",
+      "country": "ENG",
+      "elo": 1351,
+      "rank": 149,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club150",
+      "country": "ENG",
+      "elo": 1350,
+      "rank": 150,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club151",
+      "country": "ENG",
+      "elo": 1349,
+      "rank": 151,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club152",
+      "country": "ENG",
+      "elo": 1348,
+      "rank": 152,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club153",
+      "country": "ENG",
+      "elo": 1347,
+      "rank": 153,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club154",
+      "country": "ENG",
+      "elo": 1346,
+      "rank": 154,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club155",
+      "country": "ENG",
+      "elo": 1345,
+      "rank": 155,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club156",
+      "country": "ENG",
+      "elo": 1344,
+      "rank": 156,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club157",
+      "country": "ENG",
+      "elo": 1343,
+      "rank": 157,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club158",
+      "country": "ENG",
+      "elo": 1342,
+      "rank": 158,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club159",
+      "country": "ENG",
+      "elo": 1341,
+      "rank": 159,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club160",
+      "country": "ENG",
+      "elo": 1340,
+      "rank": 160,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club161",
+      "country": "ENG",
+      "elo": 1339,
+      "rank": 161,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club162",
+      "country": "ENG",
+      "elo": 1338,
+      "rank": 162,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club163",
+      "country": "ENG",
+      "elo": 1337,
+      "rank": 163,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club164",
+      "country": "ENG",
+      "elo": 1336,
+      "rank": 164,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club165",
+      "country": "ENG",
+      "elo": 1335,
+      "rank": 165,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club166",
+      "country": "ENG",
+      "elo": 1334,
+      "rank": 166,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club167",
+      "country": "ENG",
+      "elo": 1333,
+      "rank": 167,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club168",
+      "country": "ENG",
+      "elo": 1332,
+      "rank": 168,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club169",
+      "country": "ENG",
+      "elo": 1331,
+      "rank": 169,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club170",
+      "country": "ENG",
+      "elo": 1330,
+      "rank": 170,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club171",
+      "country": "ENG",
+      "elo": 1329,
+      "rank": 171,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club172",
+      "country": "ENG",
+      "elo": 1328,
+      "rank": 172,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club173",
+      "country": "ENG",
+      "elo": 1327,
+      "rank": 173,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club174",
+      "country": "ENG",
+      "elo": 1326,
+      "rank": 174,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club175",
+      "country": "ENG",
+      "elo": 1325,
+      "rank": 175,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club176",
+      "country": "ENG",
+      "elo": 1324,
+      "rank": 176,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club177",
+      "country": "ENG",
+      "elo": 1323,
+      "rank": 177,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club178",
+      "country": "ENG",
+      "elo": 1322,
+      "rank": 178,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club179",
+      "country": "ENG",
+      "elo": 1321,
+      "rank": 179,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club180",
+      "country": "ENG",
+      "elo": 1320,
+      "rank": 180,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club181",
+      "country": "ENG",
+      "elo": 1319,
+      "rank": 181,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club182",
+      "country": "ENG",
+      "elo": 1318,
+      "rank": 182,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club183",
+      "country": "ENG",
+      "elo": 1317,
+      "rank": 183,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club184",
+      "country": "ENG",
+      "elo": 1316,
+      "rank": 184,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club185",
+      "country": "ENG",
+      "elo": 1315,
+      "rank": 185,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club186",
+      "country": "ENG",
+      "elo": 1314,
+      "rank": 186,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club187",
+      "country": "ENG",
+      "elo": 1313,
+      "rank": 187,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club188",
+      "country": "ENG",
+      "elo": 1312,
+      "rank": 188,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club189",
+      "country": "ENG",
+      "elo": 1311,
+      "rank": 189,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club190",
+      "country": "ENG",
+      "elo": 1310,
+      "rank": 190,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club191",
+      "country": "ENG",
+      "elo": 1309,
+      "rank": 191,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club192",
+      "country": "ENG",
+      "elo": 1308,
+      "rank": 192,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club193",
+      "country": "ENG",
+      "elo": 1307,
+      "rank": 193,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club194",
+      "country": "ENG",
+      "elo": 1306,
+      "rank": 194,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club195",
+      "country": "ENG",
+      "elo": 1305,
+      "rank": 195,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club196",
+      "country": "ENG",
+      "elo": 1304,
+      "rank": 196,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club197",
+      "country": "ENG",
+      "elo": 1303,
+      "rank": 197,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club198",
+      "country": "ENG",
+      "elo": 1302,
+      "rank": 198,
+      "source": "fallback",
+      "level": 2
+    },
+    {
+      "club": "Club199",
+      "country": "ENG",
+      "elo": 1301,
+      "rank": 199,
+      "source": "fallback",
+      "level": 2
     }
   ],
   "index": {
@@ -485,483 +1498,1489 @@
       "club": "Al Hilal",
       "country": "KSA",
       "elo": 1847,
-      "points": 1847,
       "rank": 1,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     "al nassr": {
       "club": "Al Nassr",
       "country": "KSA",
       "elo": 1767,
-      "points": 1767,
       "rank": 15,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     "al ahli": {
       "club": "Al Ahli",
       "country": "KSA",
       "elo": 1745,
-      "points": 1745,
       "rank": 22,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     "al ittihad": {
       "club": "Al Ittihad",
       "country": "KSA",
       "elo": 1720,
-      "points": 1720,
       "rank": 28,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
-    },
-    "al qadisiyah": {
-      "club": "Al Qadisiyah",
-      "country": "KSA",
-      "elo": 1620,
-      "points": 1620,
-      "rank": 80,
-      "source": "clubelo+fallback",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 1
     },
     "pyramids": {
       "club": "Pyramids",
       "country": "EGY",
       "elo": 1669,
-      "points": 1669,
-      "rank": 1,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
+      "rank": 30,
+      "source": "fallback",
+      "level": 1
     },
     "al ahly": {
       "club": "Al Ahly",
       "country": "EGY",
       "elo": 1755,
-      "points": 1755,
       "rank": 18,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
-    },
-    "zamalek": {
-      "club": "Zamalek",
-      "country": "EGY",
-      "elo": 1680,
-      "points": 1680,
-      "rank": 45,
-      "source": "clubelo+fallback",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 1
     },
     "man city": {
       "club": "Man City",
       "country": "ENG",
       "elo": 1985,
-      "points": 1985,
       "rank": 1,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "real madrid": {
       "club": "Real Madrid",
       "country": "ESP",
       "elo": 1975,
-      "points": 1975,
       "rank": 2,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "arsenal": {
       "club": "Arsenal",
       "country": "ENG",
       "elo": 1965,
-      "points": 1965,
       "rank": 3,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "bayern munich": {
       "club": "Bayern Munich",
       "country": "GER",
       "elo": 1955,
-      "points": 1955,
       "rank": 4,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "inter milan": {
       "club": "Inter Milan",
       "country": "ITA",
       "elo": 1945,
-      "points": 1945,
       "rank": 5,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "barcelona": {
       "club": "Barcelona",
       "country": "ESP",
       "elo": 1935,
-      "points": 1935,
       "rank": 6,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "liverpool": {
       "club": "Liverpool",
       "country": "ENG",
       "elo": 1925,
-      "points": 1925,
       "rank": 7,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "psg": {
       "club": "PSG",
       "country": "FRA",
       "elo": 1915,
-      "points": 1915,
       "rank": 8,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "leverkusen": {
       "club": "Leverkusen",
       "country": "GER",
       "elo": 1905,
-      "points": 1905,
       "rank": 9,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
     "atletico madrid": {
       "club": "Atletico Madrid",
       "country": "ESP",
       "elo": 1895,
-      "points": 1895,
       "rank": 10,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 1
     },
-    "atalanta": {
-      "club": "Atalanta",
-      "country": "ITA",
-      "elo": 1880,
-      "points": 1880,
-      "rank": 11,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "dortmund": {
-      "club": "Dortmund",
-      "country": "GER",
-      "elo": 1870,
-      "points": 1870,
-      "rank": 12,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "man united": {
-      "club": "Man United",
+    "club30": {
+      "club": "Club30",
       "country": "ENG",
-      "elo": 1820,
-      "points": 1820,
-      "rank": 20,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "elo": 1470,
+      "rank": 30,
+      "source": "fallback",
+      "level": 2
     },
-    "chelsea": {
-      "club": "Chelsea",
+    "club31": {
+      "club": "Club31",
       "country": "ENG",
-      "elo": 1810,
-      "points": 1810,
-      "rank": 22,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "elo": 1469,
+      "rank": 31,
+      "source": "fallback",
+      "level": 2
     },
-    "juventus": {
-      "club": "Juventus",
-      "country": "ITA",
-      "elo": 1840,
-      "points": 1840,
-      "rank": 15,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "ac milan": {
-      "club": "AC Milan",
-      "country": "ITA",
-      "elo": 1830,
-      "points": 1830,
-      "rank": 18,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "tottenham": {
-      "club": "Tottenham",
+    "club32": {
+      "club": "Club32",
       "country": "ENG",
-      "elo": 1805,
-      "points": 1805,
-      "rank": 25,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "newcastle": {
-      "club": "Newcastle",
-      "country": "ENG",
-      "elo": 1795,
-      "points": 1795,
-      "rank": 27,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "napoli": {
-      "club": "Napoli",
-      "country": "ITA",
-      "elo": 1825,
-      "points": 1825,
-      "rank": 19,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "leipzig": {
-      "club": "Leipzig",
-      "country": "GER",
-      "elo": 1815,
-      "points": 1815,
-      "rank": 21,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "benfica": {
-      "club": "Benfica",
-      "country": "POR",
-      "elo": 1800,
-      "points": 1800,
-      "rank": 24,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "porto": {
-      "club": "Porto",
-      "country": "POR",
-      "elo": 1785,
-      "points": 1785,
-      "rank": 28,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "ajax": {
-      "club": "Ajax",
-      "country": "NED",
-      "elo": 1740,
-      "points": 1740,
-      "rank": 35,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "psv": {
-      "club": "PSV",
-      "country": "NED",
-      "elo": 1755,
-      "points": 1755,
+      "elo": 1468,
       "rank": 32,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
-    "feyenoord": {
-      "club": "Feyenoord",
-      "country": "NED",
-      "elo": 1730,
-      "points": 1730,
+    "club33": {
+      "club": "Club33",
+      "country": "ENG",
+      "elo": 1467,
+      "rank": 33,
+      "source": "fallback",
+      "level": 2
+    },
+    "club34": {
+      "club": "Club34",
+      "country": "ENG",
+      "elo": 1466,
+      "rank": 34,
+      "source": "fallback",
+      "level": 2
+    },
+    "club35": {
+      "club": "Club35",
+      "country": "ENG",
+      "elo": 1465,
+      "rank": 35,
+      "source": "fallback",
+      "level": 2
+    },
+    "club36": {
+      "club": "Club36",
+      "country": "ENG",
+      "elo": 1464,
+      "rank": 36,
+      "source": "fallback",
+      "level": 2
+    },
+    "club37": {
+      "club": "Club37",
+      "country": "ENG",
+      "elo": 1463,
+      "rank": 37,
+      "source": "fallback",
+      "level": 2
+    },
+    "club38": {
+      "club": "Club38",
+      "country": "ENG",
+      "elo": 1462,
       "rank": 38,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
-    "galatasaray": {
-      "club": "Galatasaray",
-      "country": "TUR",
-      "elo": 1725,
-      "points": 1725,
+    "club39": {
+      "club": "Club39",
+      "country": "ENG",
+      "elo": 1461,
+      "rank": 39,
+      "source": "fallback",
+      "level": 2
+    },
+    "club40": {
+      "club": "Club40",
+      "country": "ENG",
+      "elo": 1460,
       "rank": 40,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
-    "fenerbahce": {
-      "club": "Fenerbahce",
-      "country": "TUR",
-      "elo": 1710,
-      "points": 1710,
-      "rank": 45,
-      "source": "clubelo",
-      "confederation": "uefa"
+    "club41": {
+      "club": "Club41",
+      "country": "ENG",
+      "elo": 1459,
+      "rank": 41,
+      "source": "fallback",
+      "level": 2
     },
-    "celtic": {
-      "club": "Celtic",
-      "country": "SCO",
-      "elo": 1690,
-      "points": 1690,
-      "rank": 50,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "rangers": {
-      "club": "Rangers",
-      "country": "SCO",
-      "elo": 1680,
-      "points": 1680,
-      "rank": 52,
-      "source": "clubelo",
-      "confederation": "uefa"
-    },
-    "club brugge": {
-      "club": "Club Brugge",
-      "country": "BEL",
-      "elo": 1715,
-      "points": 1715,
+    "club42": {
+      "club": "Club42",
+      "country": "ENG",
+      "elo": 1458,
       "rank": 42,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
-    "shakhtar": {
-      "club": "Shakhtar",
-      "country": "UKR",
-      "elo": 1700,
-      "points": 1700,
+    "club43": {
+      "club": "Club43",
+      "country": "ENG",
+      "elo": 1457,
+      "rank": 43,
+      "source": "fallback",
+      "level": 2
+    },
+    "club44": {
+      "club": "Club44",
+      "country": "ENG",
+      "elo": 1456,
+      "rank": 44,
+      "source": "fallback",
+      "level": 2
+    },
+    "club45": {
+      "club": "Club45",
+      "country": "ENG",
+      "elo": 1455,
+      "rank": 45,
+      "source": "fallback",
+      "level": 2
+    },
+    "club46": {
+      "club": "Club46",
+      "country": "ENG",
+      "elo": 1454,
+      "rank": 46,
+      "source": "fallback",
+      "level": 2
+    },
+    "club47": {
+      "club": "Club47",
+      "country": "ENG",
+      "elo": 1453,
+      "rank": 47,
+      "source": "fallback",
+      "level": 2
+    },
+    "club48": {
+      "club": "Club48",
+      "country": "ENG",
+      "elo": 1452,
       "rank": 48,
-      "source": "clubelo",
-      "confederation": "uefa"
+      "source": "fallback",
+      "level": 2
     },
-    "flamengo": {
-      "club": "Flamengo",
-      "country": "BRA",
-      "elo": 1840,
-      "points": 1840,
-      "rank": 1,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club49": {
+      "club": "Club49",
+      "country": "ENG",
+      "elo": 1451,
+      "rank": 49,
+      "source": "fallback",
+      "level": 2
     },
-    "palmeiras": {
-      "club": "Palmeiras",
-      "country": "BRA",
-      "elo": 1830,
-      "points": 1830,
-      "rank": 2,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club50": {
+      "club": "Club50",
+      "country": "ENG",
+      "elo": 1450,
+      "rank": 50,
+      "source": "fallback",
+      "level": 2
     },
-    "river plate": {
-      "club": "River Plate",
-      "country": "ARG",
-      "elo": 1800,
-      "points": 1800,
-      "rank": 3,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club51": {
+      "club": "Club51",
+      "country": "ENG",
+      "elo": 1449,
+      "rank": 51,
+      "source": "fallback",
+      "level": 2
     },
-    "boca juniors": {
-      "club": "Boca Juniors",
-      "country": "ARG",
-      "elo": 1760,
-      "points": 1760,
-      "rank": 5,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club52": {
+      "club": "Club52",
+      "country": "ENG",
+      "elo": 1448,
+      "rank": 52,
+      "source": "fallback",
+      "level": 2
     },
-    "fluminense": {
-      "club": "Fluminense",
-      "country": "BRA",
-      "elo": 1790,
-      "points": 1790,
-      "rank": 4,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club53": {
+      "club": "Club53",
+      "country": "ENG",
+      "elo": 1447,
+      "rank": 53,
+      "source": "fallback",
+      "level": 2
     },
-    "botafogo": {
-      "club": "Botafogo",
-      "country": "BRA",
-      "elo": 1770,
-      "points": 1770,
-      "rank": 6,
-      "source": "clubelo",
-      "confederation": "conmebol"
+    "club54": {
+      "club": "Club54",
+      "country": "ENG",
+      "elo": 1446,
+      "rank": 54,
+      "source": "fallback",
+      "level": 2
     },
-    "urawa reds": {
-      "club": "Urawa Reds",
-      "country": "JPN",
-      "elo": 1620,
-      "points": 1620,
-      "rank": 60,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    "al ain": {
-      "club": "Al Ain",
-      "country": "UAE",
-      "elo": 1640,
-      "points": 1640,
+    "club55": {
+      "club": "Club55",
+      "country": "ENG",
+      "elo": 1445,
       "rank": 55,
-      "source": "clubelo",
-      "confederation": "afc"
+      "source": "fallback",
+      "level": 2
     },
-    "yokohama f marinos": {
-      "club": "Yokohama F Marinos",
-      "country": "JPN",
-      "elo": 1605,
-      "points": 1605,
-      "rank": 70,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    "kawasaki": {
-      "club": "Kawasaki",
-      "country": "JPN",
-      "elo": 1595,
-      "points": 1595,
-      "rank": 75,
-      "source": "clubelo",
-      "confederation": "afc"
-    },
-    "wydad casablanca": {
-      "club": "Wydad Casablanca",
-      "country": "MAR",
-      "elo": 1625,
-      "points": 1625,
-      "rank": 58,
-      "source": "clubelo",
-      "confederation": "caf"
-    },
-    "esperance tunis": {
-      "club": "Esperance Tunis",
-      "country": "TUN",
-      "elo": 1610,
-      "points": 1610,
-      "rank": 62,
-      "source": "clubelo",
-      "confederation": "caf"
-    },
-    "mamelodi sundowns": {
-      "club": "Mamelodi Sundowns",
-      "country": "RSA",
-      "elo": 1635,
-      "points": 1635,
+    "club56": {
+      "club": "Club56",
+      "country": "ENG",
+      "elo": 1444,
       "rank": 56,
-      "source": "clubelo",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 2
     },
-    "raja casablanca": {
-      "club": "Raja Casablanca",
-      "country": "MAR",
-      "elo": 1600,
-      "points": 1600,
+    "club57": {
+      "club": "Club57",
+      "country": "ENG",
+      "elo": 1443,
+      "rank": 57,
+      "source": "fallback",
+      "level": 2
+    },
+    "club58": {
+      "club": "Club58",
+      "country": "ENG",
+      "elo": 1442,
+      "rank": 58,
+      "source": "fallback",
+      "level": 2
+    },
+    "club59": {
+      "club": "Club59",
+      "country": "ENG",
+      "elo": 1441,
+      "rank": 59,
+      "source": "fallback",
+      "level": 2
+    },
+    "club60": {
+      "club": "Club60",
+      "country": "ENG",
+      "elo": 1440,
+      "rank": 60,
+      "source": "fallback",
+      "level": 2
+    },
+    "club61": {
+      "club": "Club61",
+      "country": "ENG",
+      "elo": 1439,
+      "rank": 61,
+      "source": "fallback",
+      "level": 2
+    },
+    "club62": {
+      "club": "Club62",
+      "country": "ENG",
+      "elo": 1438,
+      "rank": 62,
+      "source": "fallback",
+      "level": 2
+    },
+    "club63": {
+      "club": "Club63",
+      "country": "ENG",
+      "elo": 1437,
+      "rank": 63,
+      "source": "fallback",
+      "level": 2
+    },
+    "club64": {
+      "club": "Club64",
+      "country": "ENG",
+      "elo": 1436,
+      "rank": 64,
+      "source": "fallback",
+      "level": 2
+    },
+    "club65": {
+      "club": "Club65",
+      "country": "ENG",
+      "elo": 1435,
+      "rank": 65,
+      "source": "fallback",
+      "level": 2
+    },
+    "club66": {
+      "club": "Club66",
+      "country": "ENG",
+      "elo": 1434,
+      "rank": 66,
+      "source": "fallback",
+      "level": 2
+    },
+    "club67": {
+      "club": "Club67",
+      "country": "ENG",
+      "elo": 1433,
+      "rank": 67,
+      "source": "fallback",
+      "level": 2
+    },
+    "club68": {
+      "club": "Club68",
+      "country": "ENG",
+      "elo": 1432,
+      "rank": 68,
+      "source": "fallback",
+      "level": 2
+    },
+    "club69": {
+      "club": "Club69",
+      "country": "ENG",
+      "elo": 1431,
+      "rank": 69,
+      "source": "fallback",
+      "level": 2
+    },
+    "club70": {
+      "club": "Club70",
+      "country": "ENG",
+      "elo": 1430,
+      "rank": 70,
+      "source": "fallback",
+      "level": 2
+    },
+    "club71": {
+      "club": "Club71",
+      "country": "ENG",
+      "elo": 1429,
+      "rank": 71,
+      "source": "fallback",
+      "level": 2
+    },
+    "club72": {
+      "club": "Club72",
+      "country": "ENG",
+      "elo": 1428,
       "rank": 72,
-      "source": "clubelo",
-      "confederation": "caf"
+      "source": "fallback",
+      "level": 2
+    },
+    "club73": {
+      "club": "Club73",
+      "country": "ENG",
+      "elo": 1427,
+      "rank": 73,
+      "source": "fallback",
+      "level": 2
+    },
+    "club74": {
+      "club": "Club74",
+      "country": "ENG",
+      "elo": 1426,
+      "rank": 74,
+      "source": "fallback",
+      "level": 2
+    },
+    "club75": {
+      "club": "Club75",
+      "country": "ENG",
+      "elo": 1425,
+      "rank": 75,
+      "source": "fallback",
+      "level": 2
+    },
+    "club76": {
+      "club": "Club76",
+      "country": "ENG",
+      "elo": 1424,
+      "rank": 76,
+      "source": "fallback",
+      "level": 2
+    },
+    "club77": {
+      "club": "Club77",
+      "country": "ENG",
+      "elo": 1423,
+      "rank": 77,
+      "source": "fallback",
+      "level": 2
+    },
+    "club78": {
+      "club": "Club78",
+      "country": "ENG",
+      "elo": 1422,
+      "rank": 78,
+      "source": "fallback",
+      "level": 2
+    },
+    "club79": {
+      "club": "Club79",
+      "country": "ENG",
+      "elo": 1421,
+      "rank": 79,
+      "source": "fallback",
+      "level": 2
+    },
+    "club80": {
+      "club": "Club80",
+      "country": "ENG",
+      "elo": 1420,
+      "rank": 80,
+      "source": "fallback",
+      "level": 2
+    },
+    "club81": {
+      "club": "Club81",
+      "country": "ENG",
+      "elo": 1419,
+      "rank": 81,
+      "source": "fallback",
+      "level": 2
+    },
+    "club82": {
+      "club": "Club82",
+      "country": "ENG",
+      "elo": 1418,
+      "rank": 82,
+      "source": "fallback",
+      "level": 2
+    },
+    "club83": {
+      "club": "Club83",
+      "country": "ENG",
+      "elo": 1417,
+      "rank": 83,
+      "source": "fallback",
+      "level": 2
+    },
+    "club84": {
+      "club": "Club84",
+      "country": "ENG",
+      "elo": 1416,
+      "rank": 84,
+      "source": "fallback",
+      "level": 2
+    },
+    "club85": {
+      "club": "Club85",
+      "country": "ENG",
+      "elo": 1415,
+      "rank": 85,
+      "source": "fallback",
+      "level": 2
+    },
+    "club86": {
+      "club": "Club86",
+      "country": "ENG",
+      "elo": 1414,
+      "rank": 86,
+      "source": "fallback",
+      "level": 2
+    },
+    "club87": {
+      "club": "Club87",
+      "country": "ENG",
+      "elo": 1413,
+      "rank": 87,
+      "source": "fallback",
+      "level": 2
+    },
+    "club88": {
+      "club": "Club88",
+      "country": "ENG",
+      "elo": 1412,
+      "rank": 88,
+      "source": "fallback",
+      "level": 2
+    },
+    "club89": {
+      "club": "Club89",
+      "country": "ENG",
+      "elo": 1411,
+      "rank": 89,
+      "source": "fallback",
+      "level": 2
+    },
+    "club90": {
+      "club": "Club90",
+      "country": "ENG",
+      "elo": 1410,
+      "rank": 90,
+      "source": "fallback",
+      "level": 2
+    },
+    "club91": {
+      "club": "Club91",
+      "country": "ENG",
+      "elo": 1409,
+      "rank": 91,
+      "source": "fallback",
+      "level": 2
+    },
+    "club92": {
+      "club": "Club92",
+      "country": "ENG",
+      "elo": 1408,
+      "rank": 92,
+      "source": "fallback",
+      "level": 2
+    },
+    "club93": {
+      "club": "Club93",
+      "country": "ENG",
+      "elo": 1407,
+      "rank": 93,
+      "source": "fallback",
+      "level": 2
+    },
+    "club94": {
+      "club": "Club94",
+      "country": "ENG",
+      "elo": 1406,
+      "rank": 94,
+      "source": "fallback",
+      "level": 2
+    },
+    "club95": {
+      "club": "Club95",
+      "country": "ENG",
+      "elo": 1405,
+      "rank": 95,
+      "source": "fallback",
+      "level": 2
+    },
+    "club96": {
+      "club": "Club96",
+      "country": "ENG",
+      "elo": 1404,
+      "rank": 96,
+      "source": "fallback",
+      "level": 2
+    },
+    "club97": {
+      "club": "Club97",
+      "country": "ENG",
+      "elo": 1403,
+      "rank": 97,
+      "source": "fallback",
+      "level": 2
+    },
+    "club98": {
+      "club": "Club98",
+      "country": "ENG",
+      "elo": 1402,
+      "rank": 98,
+      "source": "fallback",
+      "level": 2
+    },
+    "club99": {
+      "club": "Club99",
+      "country": "ENG",
+      "elo": 1401,
+      "rank": 99,
+      "source": "fallback",
+      "level": 2
+    },
+    "club100": {
+      "club": "Club100",
+      "country": "ENG",
+      "elo": 1400,
+      "rank": 100,
+      "source": "fallback",
+      "level": 2
+    },
+    "club101": {
+      "club": "Club101",
+      "country": "ENG",
+      "elo": 1399,
+      "rank": 101,
+      "source": "fallback",
+      "level": 2
+    },
+    "club102": {
+      "club": "Club102",
+      "country": "ENG",
+      "elo": 1398,
+      "rank": 102,
+      "source": "fallback",
+      "level": 2
+    },
+    "club103": {
+      "club": "Club103",
+      "country": "ENG",
+      "elo": 1397,
+      "rank": 103,
+      "source": "fallback",
+      "level": 2
+    },
+    "club104": {
+      "club": "Club104",
+      "country": "ENG",
+      "elo": 1396,
+      "rank": 104,
+      "source": "fallback",
+      "level": 2
+    },
+    "club105": {
+      "club": "Club105",
+      "country": "ENG",
+      "elo": 1395,
+      "rank": 105,
+      "source": "fallback",
+      "level": 2
+    },
+    "club106": {
+      "club": "Club106",
+      "country": "ENG",
+      "elo": 1394,
+      "rank": 106,
+      "source": "fallback",
+      "level": 2
+    },
+    "club107": {
+      "club": "Club107",
+      "country": "ENG",
+      "elo": 1393,
+      "rank": 107,
+      "source": "fallback",
+      "level": 2
+    },
+    "club108": {
+      "club": "Club108",
+      "country": "ENG",
+      "elo": 1392,
+      "rank": 108,
+      "source": "fallback",
+      "level": 2
+    },
+    "club109": {
+      "club": "Club109",
+      "country": "ENG",
+      "elo": 1391,
+      "rank": 109,
+      "source": "fallback",
+      "level": 2
+    },
+    "club110": {
+      "club": "Club110",
+      "country": "ENG",
+      "elo": 1390,
+      "rank": 110,
+      "source": "fallback",
+      "level": 2
+    },
+    "club111": {
+      "club": "Club111",
+      "country": "ENG",
+      "elo": 1389,
+      "rank": 111,
+      "source": "fallback",
+      "level": 2
+    },
+    "club112": {
+      "club": "Club112",
+      "country": "ENG",
+      "elo": 1388,
+      "rank": 112,
+      "source": "fallback",
+      "level": 2
+    },
+    "club113": {
+      "club": "Club113",
+      "country": "ENG",
+      "elo": 1387,
+      "rank": 113,
+      "source": "fallback",
+      "level": 2
+    },
+    "club114": {
+      "club": "Club114",
+      "country": "ENG",
+      "elo": 1386,
+      "rank": 114,
+      "source": "fallback",
+      "level": 2
+    },
+    "club115": {
+      "club": "Club115",
+      "country": "ENG",
+      "elo": 1385,
+      "rank": 115,
+      "source": "fallback",
+      "level": 2
+    },
+    "club116": {
+      "club": "Club116",
+      "country": "ENG",
+      "elo": 1384,
+      "rank": 116,
+      "source": "fallback",
+      "level": 2
+    },
+    "club117": {
+      "club": "Club117",
+      "country": "ENG",
+      "elo": 1383,
+      "rank": 117,
+      "source": "fallback",
+      "level": 2
+    },
+    "club118": {
+      "club": "Club118",
+      "country": "ENG",
+      "elo": 1382,
+      "rank": 118,
+      "source": "fallback",
+      "level": 2
+    },
+    "club119": {
+      "club": "Club119",
+      "country": "ENG",
+      "elo": 1381,
+      "rank": 119,
+      "source": "fallback",
+      "level": 2
+    },
+    "club120": {
+      "club": "Club120",
+      "country": "ENG",
+      "elo": 1380,
+      "rank": 120,
+      "source": "fallback",
+      "level": 2
+    },
+    "club121": {
+      "club": "Club121",
+      "country": "ENG",
+      "elo": 1379,
+      "rank": 121,
+      "source": "fallback",
+      "level": 2
+    },
+    "club122": {
+      "club": "Club122",
+      "country": "ENG",
+      "elo": 1378,
+      "rank": 122,
+      "source": "fallback",
+      "level": 2
+    },
+    "club123": {
+      "club": "Club123",
+      "country": "ENG",
+      "elo": 1377,
+      "rank": 123,
+      "source": "fallback",
+      "level": 2
+    },
+    "club124": {
+      "club": "Club124",
+      "country": "ENG",
+      "elo": 1376,
+      "rank": 124,
+      "source": "fallback",
+      "level": 2
+    },
+    "club125": {
+      "club": "Club125",
+      "country": "ENG",
+      "elo": 1375,
+      "rank": 125,
+      "source": "fallback",
+      "level": 2
+    },
+    "club126": {
+      "club": "Club126",
+      "country": "ENG",
+      "elo": 1374,
+      "rank": 126,
+      "source": "fallback",
+      "level": 2
+    },
+    "club127": {
+      "club": "Club127",
+      "country": "ENG",
+      "elo": 1373,
+      "rank": 127,
+      "source": "fallback",
+      "level": 2
+    },
+    "club128": {
+      "club": "Club128",
+      "country": "ENG",
+      "elo": 1372,
+      "rank": 128,
+      "source": "fallback",
+      "level": 2
+    },
+    "club129": {
+      "club": "Club129",
+      "country": "ENG",
+      "elo": 1371,
+      "rank": 129,
+      "source": "fallback",
+      "level": 2
+    },
+    "club130": {
+      "club": "Club130",
+      "country": "ENG",
+      "elo": 1370,
+      "rank": 130,
+      "source": "fallback",
+      "level": 2
+    },
+    "club131": {
+      "club": "Club131",
+      "country": "ENG",
+      "elo": 1369,
+      "rank": 131,
+      "source": "fallback",
+      "level": 2
+    },
+    "club132": {
+      "club": "Club132",
+      "country": "ENG",
+      "elo": 1368,
+      "rank": 132,
+      "source": "fallback",
+      "level": 2
+    },
+    "club133": {
+      "club": "Club133",
+      "country": "ENG",
+      "elo": 1367,
+      "rank": 133,
+      "source": "fallback",
+      "level": 2
+    },
+    "club134": {
+      "club": "Club134",
+      "country": "ENG",
+      "elo": 1366,
+      "rank": 134,
+      "source": "fallback",
+      "level": 2
+    },
+    "club135": {
+      "club": "Club135",
+      "country": "ENG",
+      "elo": 1365,
+      "rank": 135,
+      "source": "fallback",
+      "level": 2
+    },
+    "club136": {
+      "club": "Club136",
+      "country": "ENG",
+      "elo": 1364,
+      "rank": 136,
+      "source": "fallback",
+      "level": 2
+    },
+    "club137": {
+      "club": "Club137",
+      "country": "ENG",
+      "elo": 1363,
+      "rank": 137,
+      "source": "fallback",
+      "level": 2
+    },
+    "club138": {
+      "club": "Club138",
+      "country": "ENG",
+      "elo": 1362,
+      "rank": 138,
+      "source": "fallback",
+      "level": 2
+    },
+    "club139": {
+      "club": "Club139",
+      "country": "ENG",
+      "elo": 1361,
+      "rank": 139,
+      "source": "fallback",
+      "level": 2
+    },
+    "club140": {
+      "club": "Club140",
+      "country": "ENG",
+      "elo": 1360,
+      "rank": 140,
+      "source": "fallback",
+      "level": 2
+    },
+    "club141": {
+      "club": "Club141",
+      "country": "ENG",
+      "elo": 1359,
+      "rank": 141,
+      "source": "fallback",
+      "level": 2
+    },
+    "club142": {
+      "club": "Club142",
+      "country": "ENG",
+      "elo": 1358,
+      "rank": 142,
+      "source": "fallback",
+      "level": 2
+    },
+    "club143": {
+      "club": "Club143",
+      "country": "ENG",
+      "elo": 1357,
+      "rank": 143,
+      "source": "fallback",
+      "level": 2
+    },
+    "club144": {
+      "club": "Club144",
+      "country": "ENG",
+      "elo": 1356,
+      "rank": 144,
+      "source": "fallback",
+      "level": 2
+    },
+    "club145": {
+      "club": "Club145",
+      "country": "ENG",
+      "elo": 1355,
+      "rank": 145,
+      "source": "fallback",
+      "level": 2
+    },
+    "club146": {
+      "club": "Club146",
+      "country": "ENG",
+      "elo": 1354,
+      "rank": 146,
+      "source": "fallback",
+      "level": 2
+    },
+    "club147": {
+      "club": "Club147",
+      "country": "ENG",
+      "elo": 1353,
+      "rank": 147,
+      "source": "fallback",
+      "level": 2
+    },
+    "club148": {
+      "club": "Club148",
+      "country": "ENG",
+      "elo": 1352,
+      "rank": 148,
+      "source": "fallback",
+      "level": 2
+    },
+    "club149": {
+      "club": "Club149",
+      "country": "ENG",
+      "elo": 1351,
+      "rank": 149,
+      "source": "fallback",
+      "level": 2
+    },
+    "club150": {
+      "club": "Club150",
+      "country": "ENG",
+      "elo": 1350,
+      "rank": 150,
+      "source": "fallback",
+      "level": 2
+    },
+    "club151": {
+      "club": "Club151",
+      "country": "ENG",
+      "elo": 1349,
+      "rank": 151,
+      "source": "fallback",
+      "level": 2
+    },
+    "club152": {
+      "club": "Club152",
+      "country": "ENG",
+      "elo": 1348,
+      "rank": 152,
+      "source": "fallback",
+      "level": 2
+    },
+    "club153": {
+      "club": "Club153",
+      "country": "ENG",
+      "elo": 1347,
+      "rank": 153,
+      "source": "fallback",
+      "level": 2
+    },
+    "club154": {
+      "club": "Club154",
+      "country": "ENG",
+      "elo": 1346,
+      "rank": 154,
+      "source": "fallback",
+      "level": 2
+    },
+    "club155": {
+      "club": "Club155",
+      "country": "ENG",
+      "elo": 1345,
+      "rank": 155,
+      "source": "fallback",
+      "level": 2
+    },
+    "club156": {
+      "club": "Club156",
+      "country": "ENG",
+      "elo": 1344,
+      "rank": 156,
+      "source": "fallback",
+      "level": 2
+    },
+    "club157": {
+      "club": "Club157",
+      "country": "ENG",
+      "elo": 1343,
+      "rank": 157,
+      "source": "fallback",
+      "level": 2
+    },
+    "club158": {
+      "club": "Club158",
+      "country": "ENG",
+      "elo": 1342,
+      "rank": 158,
+      "source": "fallback",
+      "level": 2
+    },
+    "club159": {
+      "club": "Club159",
+      "country": "ENG",
+      "elo": 1341,
+      "rank": 159,
+      "source": "fallback",
+      "level": 2
+    },
+    "club160": {
+      "club": "Club160",
+      "country": "ENG",
+      "elo": 1340,
+      "rank": 160,
+      "source": "fallback",
+      "level": 2
+    },
+    "club161": {
+      "club": "Club161",
+      "country": "ENG",
+      "elo": 1339,
+      "rank": 161,
+      "source": "fallback",
+      "level": 2
+    },
+    "club162": {
+      "club": "Club162",
+      "country": "ENG",
+      "elo": 1338,
+      "rank": 162,
+      "source": "fallback",
+      "level": 2
+    },
+    "club163": {
+      "club": "Club163",
+      "country": "ENG",
+      "elo": 1337,
+      "rank": 163,
+      "source": "fallback",
+      "level": 2
+    },
+    "club164": {
+      "club": "Club164",
+      "country": "ENG",
+      "elo": 1336,
+      "rank": 164,
+      "source": "fallback",
+      "level": 2
+    },
+    "club165": {
+      "club": "Club165",
+      "country": "ENG",
+      "elo": 1335,
+      "rank": 165,
+      "source": "fallback",
+      "level": 2
+    },
+    "club166": {
+      "club": "Club166",
+      "country": "ENG",
+      "elo": 1334,
+      "rank": 166,
+      "source": "fallback",
+      "level": 2
+    },
+    "club167": {
+      "club": "Club167",
+      "country": "ENG",
+      "elo": 1333,
+      "rank": 167,
+      "source": "fallback",
+      "level": 2
+    },
+    "club168": {
+      "club": "Club168",
+      "country": "ENG",
+      "elo": 1332,
+      "rank": 168,
+      "source": "fallback",
+      "level": 2
+    },
+    "club169": {
+      "club": "Club169",
+      "country": "ENG",
+      "elo": 1331,
+      "rank": 169,
+      "source": "fallback",
+      "level": 2
+    },
+    "club170": {
+      "club": "Club170",
+      "country": "ENG",
+      "elo": 1330,
+      "rank": 170,
+      "source": "fallback",
+      "level": 2
+    },
+    "club171": {
+      "club": "Club171",
+      "country": "ENG",
+      "elo": 1329,
+      "rank": 171,
+      "source": "fallback",
+      "level": 2
+    },
+    "club172": {
+      "club": "Club172",
+      "country": "ENG",
+      "elo": 1328,
+      "rank": 172,
+      "source": "fallback",
+      "level": 2
+    },
+    "club173": {
+      "club": "Club173",
+      "country": "ENG",
+      "elo": 1327,
+      "rank": 173,
+      "source": "fallback",
+      "level": 2
+    },
+    "club174": {
+      "club": "Club174",
+      "country": "ENG",
+      "elo": 1326,
+      "rank": 174,
+      "source": "fallback",
+      "level": 2
+    },
+    "club175": {
+      "club": "Club175",
+      "country": "ENG",
+      "elo": 1325,
+      "rank": 175,
+      "source": "fallback",
+      "level": 2
+    },
+    "club176": {
+      "club": "Club176",
+      "country": "ENG",
+      "elo": 1324,
+      "rank": 176,
+      "source": "fallback",
+      "level": 2
+    },
+    "club177": {
+      "club": "Club177",
+      "country": "ENG",
+      "elo": 1323,
+      "rank": 177,
+      "source": "fallback",
+      "level": 2
+    },
+    "club178": {
+      "club": "Club178",
+      "country": "ENG",
+      "elo": 1322,
+      "rank": 178,
+      "source": "fallback",
+      "level": 2
+    },
+    "club179": {
+      "club": "Club179",
+      "country": "ENG",
+      "elo": 1321,
+      "rank": 179,
+      "source": "fallback",
+      "level": 2
+    },
+    "club180": {
+      "club": "Club180",
+      "country": "ENG",
+      "elo": 1320,
+      "rank": 180,
+      "source": "fallback",
+      "level": 2
+    },
+    "club181": {
+      "club": "Club181",
+      "country": "ENG",
+      "elo": 1319,
+      "rank": 181,
+      "source": "fallback",
+      "level": 2
+    },
+    "club182": {
+      "club": "Club182",
+      "country": "ENG",
+      "elo": 1318,
+      "rank": 182,
+      "source": "fallback",
+      "level": 2
+    },
+    "club183": {
+      "club": "Club183",
+      "country": "ENG",
+      "elo": 1317,
+      "rank": 183,
+      "source": "fallback",
+      "level": 2
+    },
+    "club184": {
+      "club": "Club184",
+      "country": "ENG",
+      "elo": 1316,
+      "rank": 184,
+      "source": "fallback",
+      "level": 2
+    },
+    "club185": {
+      "club": "Club185",
+      "country": "ENG",
+      "elo": 1315,
+      "rank": 185,
+      "source": "fallback",
+      "level": 2
+    },
+    "club186": {
+      "club": "Club186",
+      "country": "ENG",
+      "elo": 1314,
+      "rank": 186,
+      "source": "fallback",
+      "level": 2
+    },
+    "club187": {
+      "club": "Club187",
+      "country": "ENG",
+      "elo": 1313,
+      "rank": 187,
+      "source": "fallback",
+      "level": 2
+    },
+    "club188": {
+      "club": "Club188",
+      "country": "ENG",
+      "elo": 1312,
+      "rank": 188,
+      "source": "fallback",
+      "level": 2
+    },
+    "club189": {
+      "club": "Club189",
+      "country": "ENG",
+      "elo": 1311,
+      "rank": 189,
+      "source": "fallback",
+      "level": 2
+    },
+    "club190": {
+      "club": "Club190",
+      "country": "ENG",
+      "elo": 1310,
+      "rank": 190,
+      "source": "fallback",
+      "level": 2
+    },
+    "club191": {
+      "club": "Club191",
+      "country": "ENG",
+      "elo": 1309,
+      "rank": 191,
+      "source": "fallback",
+      "level": 2
+    },
+    "club192": {
+      "club": "Club192",
+      "country": "ENG",
+      "elo": 1308,
+      "rank": 192,
+      "source": "fallback",
+      "level": 2
+    },
+    "club193": {
+      "club": "Club193",
+      "country": "ENG",
+      "elo": 1307,
+      "rank": 193,
+      "source": "fallback",
+      "level": 2
+    },
+    "club194": {
+      "club": "Club194",
+      "country": "ENG",
+      "elo": 1306,
+      "rank": 194,
+      "source": "fallback",
+      "level": 2
+    },
+    "club195": {
+      "club": "Club195",
+      "country": "ENG",
+      "elo": 1305,
+      "rank": 195,
+      "source": "fallback",
+      "level": 2
+    },
+    "club196": {
+      "club": "Club196",
+      "country": "ENG",
+      "elo": 1304,
+      "rank": 196,
+      "source": "fallback",
+      "level": 2
+    },
+    "club197": {
+      "club": "Club197",
+      "country": "ENG",
+      "elo": 1303,
+      "rank": 197,
+      "source": "fallback",
+      "level": 2
+    },
+    "club198": {
+      "club": "Club198",
+      "country": "ENG",
+      "elo": 1302,
+      "rank": 198,
+      "source": "fallback",
+      "level": 2
+    },
+    "club199": {
+      "club": "Club199",
+      "country": "ENG",
+      "elo": 1301,
+      "rank": 199,
+      "source": "fallback",
+      "level": 2
     }
-  },
-  "sources": {
-    "clubelo_live": 0,
-    "fallback": 53,
-    "total": 53
   }
 }
