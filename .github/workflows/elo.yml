@@ -1,1 +1,46 @@
+name: Elo Auto Update WORLD V400
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # toutes les heures
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install deps WORLD
+        run: |
+          pip install requests beautifulsoup4 lxml pandas
+      
+      - name: Fetch Elo WORLD (ClubElo API + FootballDatabase World)
+        run: |
+          # Utilise le nouveau script V400
+          python fetch_elo.py
+          # Vérifie
+          ls -lh elo.json
+          echo "Count:"
+          cat elo.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(d['count'], 'clubs', d['index_count'], 'index keys', d['updated'])"
+      
+      - name: Commit WORLD Elo
+        run: |
+          git config user.name "bet261-bot-world"
+          git config user.email "bot-world@bet261.mg"
+          git add elo.json || echo "no elo.json"
+          git diff --staged --quiet && echo "No changes" && exit 0
+          COUNT=$(jq .count elo.json)
+          INDEX=$(jq .index_count elo.json)
+          git commit -m "Update Elo WORLD V400 $(date -u +%Y-%m-%dT%H:%M:%SZ) - $COUNT clubs / $INDEX keys - ClubElo API + FDB World - Fix nc"
+          git push
 
