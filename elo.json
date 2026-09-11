@@ -1,0 +1,139 @@
+{
+  "updated": "2026-09-11T11:18:29.475596Z",
+  "count": 3,
+  "index_count": 6,
+  "sources": {
+    "clubelo": {
+      "count": 3,
+      "api": "http://api.clubelo.com/YYYY-MM-DD"
+    },
+    "footballdatabase": {
+      "count": 0,
+      "url": "https://www.footballdatabase.com/ranking/world"
+    },
+    "merged": {
+      "count": 3
+    }
+  },
+  "live_count": 3,
+  "is_live": false,
+  "official_note": "V400 WORLD - 3 ClubElo API (Europe top) + 0 FootballDatabase World (toutes confédérations) = 3 clubs uniques. Plus de 'nc' car estimation automatique coté JS si non trouvé.",
+  "clubs": [
+    {
+      "club": "Arsenal",
+      "elo": 2060,
+      "points": 2060,
+      "merged": 2060,
+      "rank": 1,
+      "country": "ENG",
+      "level": 1,
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "sources_count": 1,
+      "all_names": [
+        "Arsenal"
+      ],
+      "global_rank": 1
+    },
+    {
+      "club": "Bayern Munich",
+      "elo": 2002,
+      "points": 2002,
+      "merged": 2002,
+      "rank": 2,
+      "country": "GER",
+      "level": 1,
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "sources_count": 1,
+      "all_names": [
+        "Bayern Munich"
+      ],
+      "global_rank": 2
+    },
+    {
+      "club": "Barcelona",
+      "elo": 1984,
+      "points": 1984,
+      "merged": 1984,
+      "rank": 3,
+      "country": "ESP",
+      "level": 1,
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "sources_count": 1,
+      "all_names": [
+        "Barcelona"
+      ],
+      "global_rank": 3
+    }
+  ],
+  "index": {
+    "arsenal": {
+      "club": "Arsenal",
+      "elo": 2060,
+      "points": 2060,
+      "merged": 2060,
+      "rank": 1,
+      "country": "ENG",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    },
+    "bayern munich": {
+      "club": "Bayern Munich",
+      "elo": 2002,
+      "points": 2002,
+      "merged": 2002,
+      "rank": 2,
+      "country": "GER",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    },
+    "barcelona": {
+      "club": "Barcelona",
+      "elo": 1984,
+      "points": 1984,
+      "merged": 1984,
+      "rank": 3,
+      "country": "ESP",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    },
+    "bayern": {
+      "club": "Bayern Munich",
+      "elo": 2002,
+      "points": 2002,
+      "merged": 2002,
+      "rank": 2,
+      "country": "GER",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    },
+    "bayern munchen": {
+      "club": "Bayern Munich",
+      "elo": 2002,
+      "points": 2002,
+      "merged": 2002,
+      "rank": 2,
+      "country": "GER",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    },
+    "barca": {
+      "club": "Barcelona",
+      "elo": 1984,
+      "points": 1984,
+      "merged": 1984,
+      "rank": 3,
+      "country": "ESP",
+      "source": "fallback-officiel",
+      "confederation": "uefa",
+      "best": "FDB"
+    }
+  }
+}
